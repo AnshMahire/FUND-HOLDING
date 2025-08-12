@@ -20,5 +20,5 @@ The vision is to provide a secure and trustless way for buyers and sellers to tr
 Once deployed on the Stacks blockchain, the contract will have an address in the format:  
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79e2c0b2-b1a7-482a-beb8-1c9aaa7e72e7" />
 
-## 5. Contract Address
+## 6. Contract Address
 STC2784YYTG9G2X9RYMDFTGA5PAR8D93YDJ5TBX1.simple-escrow
