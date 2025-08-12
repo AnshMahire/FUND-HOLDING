@@ -17,4 +17,6 @@ The vision is to provide a secure and trustless way for buyers and sellers to tr
 - Include events/logging for deposits and releases.
 
 ## 5. Contract Address
-Once deployed on the Stacks blockchain, the contract will have an address in the format:
+Once deployed on the Stacks blockchain, the contract will have an address in the format:  
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79e2c0b2-b1a7-482a-beb8-1c9aaa7e72e7" />
+
